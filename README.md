@@ -2,6 +2,7 @@
 
 ## Description 
   Here you will find a basic backend for an ecommerce website. Using this database you can search, create, update, or delete products, tags, and categories. This program uses sequelize to speak to the mysql database and express to run the server behind it all. 
+  [Example](https://drive.google.com/file/d/1wgkuNw9HeAh_XIGF_T1rEX_ymrP977RK/view)
 
 ## Table of Contents
 
@@ -27,7 +28,7 @@
 ## Tests
 
     npm run seed/ npm start
-  
+    
   
 
 ## License
